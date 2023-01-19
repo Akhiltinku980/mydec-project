@@ -1,0 +1,5 @@
+Hello all
+ima git repo
+created in local repo
+stored in central repo
+thank you
